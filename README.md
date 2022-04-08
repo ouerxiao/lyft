@@ -1,6 +1,7 @@
 # 
 
 # task 1: software architecture
+ - familarize with the old codebase, draft a new architecture
 
 <img src="./UML_answer.png">
 
